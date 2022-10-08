@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Story App Submission</string>
+    <string name="details">Details</string>
+    <string name="username">Username</string>
+    <string name="story_app">STORY APP</string>
+    <string name="title_welcome_page">Welcome to Story Coding App!</string>
+    <string name="message_welcome_page">Come share your learning stories and interact with other users from coding!</string>
+    <string name="login">LOGIN</string>
+    <string name="signup">SIGNUP</string>
+    <string name="title_login_page">Login</string>
+    <string name="message_login_page">Enter your data</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="title_signup_page">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="photo_detail_story">Detail Photo Story</string>
+    <string name="detail_story">Detail Story</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_addStory">Add Story</string>
+    <string name="title_profile">Profile</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="story_desc_hint">Enter a description</string>
+    <string name="upload">Upload</string>
+    <string name="logout">Logout</string>
+    <string name="message_main_page">Have fun learning in coding.</string>
+    <string name="title">Title</string>
+
+    <string name="input_name">Enter name</string>
+    <string name="input_email">Enter email</string>
+    <string name="input_password">Enter password</string>
+    <string name="email_dont_match">Invalid email</string>
+    <string name="password_dont_match">Password does not match</string>
+    <string name="title_logout">Logout</string>
+    <string name="input_image">Select a photo to upload!</string>
+    <string name="add_story">Add Story</string>
+    <string name="password_length">This field can\'t be less than 6 characters</string>
+    <string name="language">Language</string>
+    <string name="location">Location</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+
+    <string name="my_location">My Location</string>
+    <string name="location_not_found">Location Not Found</string>
+    <string name="share_location">Share My Location</string>
+
+    <string name="empty_address">Unknown Address</string>
+    <string name="empty_location">No Location</string>
+    <string name="input_your_location">Input Your Location</string>
+
+</resources>
